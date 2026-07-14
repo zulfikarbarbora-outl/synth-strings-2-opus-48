@@ -1,0 +1,210 @@
+{
+  "library": "synth-strings-2",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/synth-strings-2",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/synth-strings-2-opus-48",
+  "branch": "main",
+  "fileCount": 18,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/",
+  "files": [
+    {
+      "file": "28.opus",
+      "name": "28.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/28.opus",
+      "size": 53081,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "32.opus",
+      "name": "32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/32.opus",
+      "size": 42745,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "36.opus",
+      "name": "36.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/36.opus",
+      "size": 50814,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "40.opus",
+      "name": "40.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/40.opus",
+      "size": 41452,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "44.opus",
+      "name": "44.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/44.opus",
+      "size": 46748,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "48.opus",
+      "name": "48.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/48.opus",
+      "size": 44957,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "52.opus",
+      "name": "52.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/52.opus",
+      "size": 41214,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "56.opus",
+      "name": "56.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/56.opus",
+      "size": 34331,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "60.opus",
+      "name": "60.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/60.opus",
+      "size": 37432,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "64.opus",
+      "name": "64.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/64.opus",
+      "size": 40503,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "68.opus",
+      "name": "68.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/68.opus",
+      "size": 42217,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "72.opus",
+      "name": "72.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/72.opus",
+      "size": 42149,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "76.opus",
+      "name": "76.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/76.opus",
+      "size": 43618,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "80.opus",
+      "name": "80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/80.opus",
+      "size": 38357,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "84.opus",
+      "name": "84.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/84.opus",
+      "size": 37080,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "88.opus",
+      "name": "88.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/88.opus",
+      "size": 37536,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "92.opus",
+      "name": "92.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/92.opus",
+      "size": 33199,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "96.opus",
+      "name": "96.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/synth-strings-2-opus-48/main/96.opus",
+      "size": 39935,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {}
+}
